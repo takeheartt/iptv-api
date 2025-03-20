@@ -341,16 +341,9 @@ def get_ip_address():
     """
     Get the IP address
     """
-    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-    ip = "127.0.0.1"
-    try:
-        s.connect(("10.255.255.255", 1))
-        ip = s.getsockname()[0]
-    except:
-        ip = "127.0.0.1"
-    finally:
-        s.close()
-        return f"http://{ip}:{config.app_port}"
+    host = os.getenv("APP_HOST", config.app_host)
+    port = os.getenv("SERVER_PORT", config.app_port)
+    return f"{host}:{port}"
 
 
 def convert_to_m3u(path=None, first_channel_name=None):
