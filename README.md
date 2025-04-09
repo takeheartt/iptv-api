@@ -38,9 +38,17 @@
 - [📖 详细教程](./docs/tutorial.md)
 - [🗓️ 更新日志](./CHANGELOG.md)
 - [❤️ 赞赏](#赞赏)
-- [👀 关注(更新订阅+答疑交流)](#关注)
+- [👀 关注公众号](#关注)
 - [📣 免责声明](#免责声明)
 - [⚖️ 许可证](#许可证)
+
+> [!IMPORTANT]
+> 1. 默认数据源，如订阅源，来源于Github开源项目，仅供示例作用，可能出现稳定性问题
+> 2. 本项目不提供对接口结果稳定性的保证与解释
+> 3. 若要实现最佳的稳定性，建议自行维护数据源
+
+<details>
+  <summary>默认数据源</summary>
 
 📍订阅源来自：
 
@@ -60,6 +68,8 @@
 
 - [fanmingming/live](https://github.com/fanmingming/live)
 
+</details>
+
 ## 特点
 
 - ✅ 自定义模板，生成您想要的频道
@@ -73,36 +83,33 @@
 
 ## 最新结果
 
-- 接口源：
+> [!IMPORTANT]\
+> 以下地址国内访问可能会失败，建议在前拼接代理地址使用，公众号可回复CDN获取
+
+### 直播源
+
+- 默认
 
 ```bash
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 ```
 
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-```
-
-或
+- IPv6
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 ```
+
+- IPv4
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 ```
 
-- 数据源：
+### 点播源
 
 ```bash
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
-```
-
-或
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
 ```
 
 ## 配置
@@ -239,10 +246,11 @@ docker run -d -p 8000:8000 guovern/iptv-api
 
 ##### 环境变量：
 
-| 变量          | 描述     | 默认值             |
-|:------------|:-------|:----------------|
-| APP_PORT    | 端口     | 8000            |
-| UPDATE_CRON | 定时执行时间 | "0 22,10 * * *" |
+| 变量          | 描述                 | 默认值                |
+|:------------|:-------------------|:-------------------|
+| APP_HOST    | 服务host地址，可修改使用公网域名 | "http://localhost" |
+| APP_PORT    | 服务端口               | 8000               |
+| UPDATE_CRON | 定时任务执行时间           | "0 22,10 * * *"    |
 
 #### 3. 更新结果
 
@@ -261,6 +269,12 @@ docker run -d -p 8000:8000 guovern/iptv-api
 | /log      | 测速日志       |
 
 - RTMP 推流：
+
+> [!NOTE]
+> 1. 如果需要对本地视频源进行推流，可在`config`目录下新建`live`或`hls`（推荐）文件夹
+> 2. live文件夹用于推流live接口，hls文件夹用于推流hls接口
+> 3. 将以`频道名称命名`的视频文件放入其中，程序会自动推流到对应的频道中
+> 4. 可访问 http://localhost:8080/stat 查看实时推流状态统计数据
 
 | 推流接口           | 描述                |
 |:---------------|:------------------|
