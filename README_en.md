@@ -88,7 +88,7 @@ other features, under development...
 
 > [!IMPORTANT]\
 > The following addresses may fail to be accessed domestically. It is recommended to prepend a proxy address for use.
-> The public account can reply with "CDN" to obtain it.
+> The public account can reply with `CDN` to obtain it.
 
 ### Live Sources
 
