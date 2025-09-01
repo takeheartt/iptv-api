@@ -1,63 +1,73 @@
 🕘️更新时间,#genre#
-2025-09-01 06:25:56,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
+2025-09-01 18:31:05,http://www.cdnstv.com:6398/hls/1/index.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://www.cdnstv.com:6398/hls/1/index.m3u8
+CCTV-2,http://www.cdnstv.com:6398/hls/2/index.m3u8
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
-CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
+CCTV-3,http://www.cdnstv.com:6398/hls/3/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://www.cdnstv.com:6398/hls/4/index.m3u8
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
+CCTV-5,http://www.cdnstv.com:6398/hls/5/index.m3u8
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
 CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
+CCTV-6,http://www.cdnstv.com:6398/hls/6/index.m3u8
 CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
+CCTV-7,http://www.cdnstv.com:6398/hls/7/index.m3u8
 CCTV-8,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
 CCTV-8,http://222.129.32.255:4022/rtp/239.3.1.175:8001
+CCTV-8,http://www.cdnstv.com:6398/hls/8/index.m3u8
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
+CCTV-9,http://www.cdnstv.com:6398/hls/9/index.m3u8
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
+CCTV-10,http://www.cdnstv.com:6398/hls/10/index.m3u8
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
+CCTV-11,http://www.cdnstv.com:6398/hls/11/index.m3u8
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
+CCTV-12,http://www.cdnstv.com:6398/hls/12/index.m3u8
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
+CCTV-13,http://www.cdnstv.com:6398/hls/13/index.m3u8
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
+CCTV-14,http://www.cdnstv.com:6398/hls/14/index.m3u8
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
-CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
+CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8
 CCTV-16,http://222.129.32.255:4022/rtp/239.3.1.184:8001
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
+CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 
 💰央视付费频道,#genre#
 央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://222.134.245.16:9901/tsfile/live/0122_1.m3u8
 湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
+江苏卫视,http://sh.lnott.top:880/dx33.m3u8
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 陕西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
-云南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1081_1.m3u8
 
 ☘️黑龙江频道,#genre#
 黑龙江新闻法治,https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
-哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
@@ -76,9 +86,9 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 上海新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 纪实人文,http://8.138.7.223/tv/shtv.php?id=xjs
@@ -109,8 +119,8 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
@@ -121,7 +131,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
-IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
@@ -147,6 +156,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
+新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -156,11 +166,10 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
-新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
