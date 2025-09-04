@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-04 18:28:30,http://113.26.202.52:1299/tsfile/live/0002_1.m3u8
+2025-09-05 06:25:47,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://113.26.202.52:1299/tsfile/live/0002_1.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
@@ -19,24 +18,26 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-湖南卫视,http://113.26.202.52:1299/tsfile/live/0128_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://113.26.202.52:1299/tsfile/live/0131_1.m3u8
-深圳卫视,http://113.26.202.52:1299/tsfile/live/0126_1.m3u8
 
 ☘️黑龙江频道,#genre#
 黑龙江新闻法治,https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
+哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
+哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
+哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
@@ -75,8 +76,8 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
-Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -85,9 +86,9 @@ Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -134,7 +135,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
+金鹰卡通,http://101.66.195.120:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
