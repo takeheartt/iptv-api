@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-31 07:12:35,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-31 19:14:23,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -21,6 +21,7 @@ CCTV-2,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?cha
 CCTV-2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
+CCTV-2,http://www.freetv.top/migu/631780532.m3u8?migutoken=d69d5e5f850768f4609f5e7c6f63984da2c614f71e21226d8dea3a6e40d20f871ca2d383cd042bac96e3e8178933a15192f0ffaef2e700eb95de835faecc0bb802bd0c50099bf3d1abe4ea5174
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV-3,https://migu.188766.xyz/?migutoken=fe7e4d3a88aebf751835112361fe2543&id=CCTV3&type=yy
 CCTV-3,https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=5559462299&sign=854cdcf92250065344321ef07ef1906529ef292a1eacd5d76ef5b23701562b8c40661ebb4949d84421e5d62c1ad06bde540bd9525c23556d30bbefb329c658beb16b50162798f33f7dfc043537&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -80,6 +81,7 @@ CCTV-7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-7,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-7,http://www.freetv.top/migu/673168121.m3u8?migutoken=bea4d574a7f96c7e95fb2000e191d57743cfdadfa9a4819385a46bf2bf269d9cf13b9bcc1494158b5bc16ce7d6751825800030253b91daf31a298122a2511f45821009cbeca64d12349bc0227d
 CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV-8,https://migu.188766.xyz/?migutoken=fac96b6ebb00f0fe868f66236c1200ec&id=CCTV8&type=yy
 CCTV-8,https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=5559462299&sign=fca9be07e71e5130e9ba7b38e0ed5232a516d4544764a5910e590779cd4ee458c1bbb603c32115af3587387b46b2902d17c058b9c5997d30fc5f8f4085ed05916ddb34b0397bb485e7c1555c48&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
