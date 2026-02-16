@@ -110,24 +110,99 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 河北卫视 (2160p),http://118.81.195.79:9003/hls/29/index.m3u8
 河南卫视 (2160p),http://118.81.195.79:9003/hls/30/index.m3u8
 海南卫视 (576p),http://118.81.195.79:9003/hls/28/index.m3u8
+春晚4K-1,http://101.35.240.114:88/live.php?id=春晚1
 湖北卫视 (1080p),http://118.81.195.79:9003/hls/32/index.m3u8
+春晚4K-2,http://101.35.240.114:88/live.php?id=春晚2
 滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
 滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
+CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 滁州市广播电视台 科教频道 (400p),http://live.cztv.cc:85/live/sjpd.m3u8
+CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 甘肃卫视 (576p),http://118.81.195.79:9003/hls/25/index.m3u8
+CCTV精品,http://112.234.21.166:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
 白城新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+兵团卫视,http://121.19.134.69:808/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
 萍鄉新聞綜合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+农林卫视,http://112.234.21.166:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 西安丝路 (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
+厦门卫视,http://125.42.150.159:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+Ando TV,http://play.kankanlive.com/live/1711956137852982.m3u8
 西安商务资讯 (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
+兵团卫视,http://112.234.21.166:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://101.35.240.114:88/live.php?id=CHC家庭影院
+Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
 贵州卫视 (576p),http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+齐鲁卫视,http://123.129.70.178:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://101.35.240.114:88/live.php?id=CHC动作电影
+Beijing Traffic Radio TV [Geo-blocked],http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 辽宁卫视 (1080p),http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
+浙江卫视4K,#http://101.35.240.114:88/live.php?id=浙江卫视4K
+厦门卫视,http://125.42.148.185:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC影迷电影,http://101.35.240.114:88/live.php?id=CHC影迷电影
+CCTV世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
+Beijing Youth Radio [Geo-blocked],http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 酒泉新闻综合 (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
+江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
+旅游卫视,http://123.129.70.178:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://101.35.240.114:88/live.php?id=重温经典
+CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
 重庆卫视 (1080p),http://118.81.195.79:9003/hls/22/index.m3u8
+广东卫视4K,http://101.35.240.114:88/live.php?id=广东卫视4K
+福建东南卫视,http://61.184.46.85:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
+CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 长沙女性 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+深圳卫视4K,#http://101.35.240.114:88/live.php?id=深圳卫视
+上海卫视,http://123.129.70.178:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://101.35.240.114:88/live.php?id=五星体育
+CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 长沙政法 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+山东卫视4K,http://101.35.240.114:88/live.php?id=山东卫视4K
+上海卫视,http://61.184.46.85:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://101.35.240.114:88/phenix.php?id=fhzx
+CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 长沙新闻 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://101.35.240.114:88/phenix.php?id=fhzw
+CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
 青海卫视 (1080p),http://live.geermurmt.com/qhws/sd/live.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://101.35.240.114:88/phenix.php?id=fhhk
+CCTV央视台球,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGlFSEVtCh-9Ni530EcUljQCH6E5SJAMpWjSFlN-tUgkUPI9wIPIerGfONRJUvt-Ql_nDddG5257iJZKmTpzexgMjx5gJiWcjpnLPX4WqfnrYDogI9XX1Y3aavEQev9ZmgkKacyMoTvQwo57Rj0Igep493HvS_P1shxrHkS8O_gRU_lqIATnPH9DK_YC-PHMI1xoDhgO231vYOO3yApXEtrw.m3u8?u=1757123819
+BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
 风尚购物 (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+上海卫视,http://36.136.38.87:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://101.35.240.114:88/live.php?id=大湾区卫视
+CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
 高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
+CCTV4K真4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+福建东南卫视,http://218.13.170.98:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视4K,http://101.35.240.114:88/live.php?id=深圳卫视
+CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+CCTV-4 欧洲,#http://8.138.7.223/tv/migu8.php?id=66e1470c453536359985b7b9b8222742
+旅游卫视,http://36.136.38.87:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视4K,http://101.35.240.114:88/live.php?id=江苏卫视4K
+CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+CCTV-4 美洲,#http://8.138.7.223/tv/migu8.php?id=45de6fabfc0d9dfd41de6ad5022d8fce
+兵团卫视,http://49.234.31.101:7033/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
+CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CGTN (1080p),https://english-livebkali.cgtn.com/live/encgtn.m3u8
