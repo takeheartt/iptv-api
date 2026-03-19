@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-16 11:34:12,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-19 11:56:11,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -18,6 +18,7 @@ CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-4,https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=5559462299&sign=2ce71a916c3e601fa282e7dd88e753b48abc339a349823cb854c305a69b4aa7176e7c8378b591fd88da1c530b5676be76b0029e0ff5aec3bbf28df0c3880909cdf49f6b375e6e2da2494c1ad99&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
 CCTV-4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
+CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=5559462299&sign=a3c86c38026e85b418f865c53017a8780853c290b3e977969d6f85e969571ec480764157d717d0266258e72b1ce27144c51d3a080bf41d92946b31d0394d35b8190785a74d1a9226594d9f1902&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=5559462299&sign=4637dcd03b9b95f920898a418d0a1a14dd7146d61d81890f2e062bb61b2516c7302f7835441735ed227df4c9e251b282e4f95c43777bbc17126d91ae59f3d313a1deaea8677fc42f659dfe8c22ed&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -87,6 +88,7 @@ CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV-1,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225652/index.m3u8
+CETV-1,https://t.freetv.fun/live/cetv1.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
@@ -209,8 +211,9 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-21.ctv
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-19.ctv
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-11.ctv
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-16.php
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-15.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-7.ctv
