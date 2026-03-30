@@ -377,6 +377,14 @@ class ConfigManager:
                     pass
         return mapping
 
+    @property
+    def open_unmatch_category(self):
+        return self.config.getboolean("Settings", "open_unmatch_category", fallback=False)
+
+    @property
+    def open_auto_disable_source(self):
+        return self.config.getboolean("Settings", "open_auto_disable_source", fallback=True)
+
     def load(self):
         """
         Load the config

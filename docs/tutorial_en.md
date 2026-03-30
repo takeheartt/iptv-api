@@ -379,7 +379,7 @@ generated result files directly on the host. Append the following options to the
 | /log/result     | Log of valid results                            |
 | /log/speed-test | Log of all interfaces involved in speed testing |
 | /log/statistic  | Log of statistics results                       |
-| /log/nomatch    | Log of unmatched channels                       |
+| /log/unmatch    | Log of unmatched channels                       |
 
 **RTMP Streaming:**
 
@@ -387,9 +387,13 @@ generated result files directly on the host. Append the following options to the
 > 1. If deploying on a server, be sure to set the `PUBLIC_DOMAIN` environment variable to the server's domain name or IP
      address and the `PUBLIC_PORT` environment variable to the public port; otherwise the streaming addresses will not
      be accessible.
-> 2. When streaming is enabled, obtained interfaces (e.g., subscription sources) will be streamed by default.
+> 2. When streaming is enabled, obtained interfaces (e.g., subscription sources) will be streamed by default; only use
+     this for content you own, are explicitly authorized to redistribute, or need for closed/internal testing.
 > 3. To stream local video sources, create an `hls` folder under the `config` directory and place video files named
      after the channel; the program will automatically stream them to the corresponding channels.
+> 4. When using this project in Mainland China, make sure the content authorization, copyright, network-audiovisual,
+     and broadcasting-related compliance requirements are satisfied. Do not use it to distribute, relay, or publicly
+     expose unauthorized live streams or program sources.
 
 | Streaming Endpoint | Description                          |
 |:-------------------|:-------------------------------------|
@@ -407,7 +411,8 @@ generated result files directly on the host. Append the following options to the
 ##### Streaming Usage Tutorial
 
 Docker enables streaming with minimal configuration and placing local video files in the right folder. Below are two
-common streaming scenarios: subscription (online) sources and local video files.
+common streaming scenarios: subscription (online) sources and local video files. Use this only for content you are
+authorized to relay or for closed/internal technical testing.
 
 1) Preparations before start (example: Docker Compose)
 
