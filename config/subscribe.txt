@@ -2,13 +2,18 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+# https://github.com/cymz6/AutoIPTV-Hotel/raw/refs/heads/main/lives.txt
+# https://github.com/vbskycn/iptv/raw/refs/heads/master/tv/iptv6.txt
+# https://live.hacks.tools/tv/iptv6.txt
+# https://vip.html-5.me/iptv.txt
+# http://bxtv.3a.ink/live.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://iptv-org.github.io/iptv/languages/zho.m3u
-https://github.com/ssili126/tv/raw/refs/heads/main/itvlist.txt
 https://github.com/mzky/checklist/raw/refs/heads/master/itvlist.m3u
 https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 https://github.com/yuanzl77/IPTV/raw/refs/heads/main/live.txt
@@ -29,12 +34,7 @@ https://github.com/cs3306/IPTV-Sources/raw/refs/heads/main/data/output/iptv_coll
 http://117.72.68.25:9230/latest.txt
 https://gitee.com/hyx2230/IPTV/raw/master/tv.txt
 
-# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-# https://github.com/cymz6/AutoIPTV-Hotel/raw/refs/heads/main/lives.txt
-# https://github.com/vbskycn/iptv/raw/refs/heads/master/tv/iptv6.txt
-# https://live.hacks.tools/tv/iptv6.txt
-# https://vip.html-5.me/iptv.txt
-# http://bxtv.3a.ink/live.txt
+# https://github.com/ssili126/tv/raw/refs/heads/main/itvlist.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
