@@ -8,6 +8,7 @@
 # https://live.hacks.tools/tv/iptv6.txt
 # https://vip.html-5.me/iptv.txt
 # http://bxtv.3a.ink/live.txt
+# https://github.com/ssili126/tv/raw/refs/heads/main/itvlist.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
@@ -32,9 +33,8 @@ https://github.com/jiangnan1224/iptv_ipv4_live/raw/refs/heads/main/iptv.txt
 https://github.com/best-fan/iptv-sources/raw/refs/heads/main/cn_all.m3u8
 https://github.com/cs3306/IPTV-Sources/raw/refs/heads/main/data/output/iptv_collection.m3u
 http://117.72.68.25:9230/latest.txt
-https://gitee.com/hyx2230/IPTV/raw/master/tv.txt
 
-# https://github.com/ssili126/tv/raw/refs/heads/main/itvlist.txt
+# https://gitee.com/hyx2230/IPTV/raw/master/tv.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
