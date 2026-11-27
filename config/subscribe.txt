@@ -3,6 +3,9 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
+http://wangziduoqing.cn/yuan/zb.txt
+https://raw.githubusercontent.com/jincg99/tvbox/main/live.txt
+https://raw.githubusercontent.com/wwb521/live/main/tv.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
@@ -19,6 +22,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 
 
 
